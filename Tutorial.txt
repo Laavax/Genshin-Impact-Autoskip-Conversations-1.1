@@ -1,0 +1,15 @@
+UPDATED TUTORIAL SKIP CONVERSATIONS GENSHIN
+
+Tutorial: 
+Go and download the script from github, then you need to extract the compressed file (file with a zip on). Next you're going to download autohotkey, which is also in the description (under the script). Download it and just click yes and install it. Then when you have downloaded it close it down and open the folder you extracted and and rightclick on the genshin-cutscene..... and run it as administrator, then it will popup a green icon with an H on it on the tarskbar. Then you are done.
+Just launch genshin and press "capslock" to start it, to stop it press capslock again. If you want to close down the whole script you can right click on the green icon and press exit.
+
+If you now play on Windowed mode:
+Right click the green H icon on the taskbar you get up a menu, on the menu press "Edit this script". Now you get up notes. Press then: "Control" and "f" at the same time to get up a menu, search then for "Mouseclick" 
+where the text should be highlighted. You then see some numers next to it "1290,668" and then change it to your desired position. If you are having trouble changing it press the window icon and search "Spy" where you see the 
+windows spy tool. Then you look down and see your mouse position. Then alt tab into genshin where you will still see the tool and look at the screen numbers. Adjust the mouse where it will be able to autoclick and then change the 
+numbers to it.
+
+Credit to Del for linking it in my description!
+
+//Emia
