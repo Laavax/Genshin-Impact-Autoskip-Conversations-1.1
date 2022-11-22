@@ -9,7 +9,7 @@ setTimer, setTip, 5
 TTStart = %A_TickCount%
 while (A_TickCount - TTStart < 10000 && !toggle)
 {
-  TooltipMsg = Press `` (backtick) to toggle autoclicker`nThe autoclicker will only click when the Genshin Impact window is active
+  TooltipMsg = Press (Capslock) to toggle autoclicker`nThe autoclicker will only click when the Genshin Impact window is active
 }
 TooltipMsg = ##Autoclick enabled.
 
